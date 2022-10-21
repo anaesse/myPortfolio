@@ -278,7 +278,10 @@ header .menu{
 }
 
 .home .image img{
-    width:100%;
+    width:80%;
+    height: 30pc;
+    border: 4px solid burlywood;
+    border-top-right-radius:50% ;
 }
 
 .home .content{
